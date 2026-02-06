@@ -1,0 +1,36 @@
+{
+  "name": "Account",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Nome da conta"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "checking",
+        "savings",
+        "credit"
+      ],
+      "description": "Tipo da conta"
+    },
+    "balance": {
+      "type": "number",
+      "default": 0,
+      "description": "Saldo atual"
+    },
+    "color": {
+      "type": "string",
+      "description": "Cor da conta para identifica\u00e7\u00e3o"
+    },
+    "icon": {
+      "type": "string",
+      "description": "\u00cdcone da conta"
+    }
+  },
+  "required": [
+    "name",
+    "type"
+  ]
+}

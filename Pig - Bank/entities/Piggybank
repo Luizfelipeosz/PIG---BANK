@@ -1,0 +1,36 @@
+{
+  "name": "PiggyBank",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Nome do cofrinho"
+    },
+    "goal_amount": {
+      "type": "number",
+      "description": "Meta de economia"
+    },
+    "current_amount": {
+      "type": "number",
+      "default": 0,
+      "description": "Valor atual guardado"
+    },
+    "icon": {
+      "type": "string",
+      "description": "Emoji ou \u00edcone do cofrinho"
+    },
+    "color": {
+      "type": "string",
+      "description": "Cor do cofrinho"
+    },
+    "target_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Data alvo para atingir a meta"
+    }
+  },
+  "required": [
+    "name",
+    "goal_amount"
+  ]
+}

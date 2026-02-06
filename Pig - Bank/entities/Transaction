@@ -1,0 +1,49 @@
+{
+  "name": "Transaction",
+  "type": "object",
+  "properties": {
+    "description": {
+      "type": "string",
+      "description": "Descri\u00e7\u00e3o da transa\u00e7\u00e3o"
+    },
+    "amount": {
+      "type": "number",
+      "description": "Valor da transa\u00e7\u00e3o"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "income",
+        "expense",
+        "transfer"
+      ],
+      "description": "Tipo da transa\u00e7\u00e3o"
+    },
+    "category": {
+      "type": "string",
+      "description": "Categoria da transa\u00e7\u00e3o"
+    },
+    "from_account_id": {
+      "type": "string",
+      "description": "Conta de origem"
+    },
+    "to_account_id": {
+      "type": "string",
+      "description": "Conta de destino"
+    },
+    "to_piggybank_id": {
+      "type": "string",
+      "description": "Cofrinho de destino"
+    },
+    "date": {
+      "type": "string",
+      "format": "date",
+      "description": "Data da transa\u00e7\u00e3o"
+    }
+  },
+  "required": [
+    "description",
+    "amount",
+    "type"
+  ]
+}
