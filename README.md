@@ -43,7 +43,7 @@ Simular o funcionamento de uma aplicação bancária real, focando na construç�
 
 ## 🖥️ Demonstração
 
-👉 Em breve (adicione aqui o deploy no Vercel ou Netlify)
+👉 Em breve 
 
 ---
 
