@@ -49,7 +49,9 @@ Simular o funcionamento de uma aplicação bancária real, focando na construç�
 
 ## 📷 Preview
 
-👉 Adicione aqui prints da aplicação (dashboard, saldo, transações)
+<img width="492" height="681" alt="pig 1" src="https://github.com/user-attachments/assets/9955e939-33b0-4059-8ee9-eacd216cc513" />
+<img width="420" height="687" alt="pig 2" src="https://github.com/user-attachments/assets/ded9f38a-1f89-4fce-9885-2357deaa433d" />
+
 
 ---
 
