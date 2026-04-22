@@ -22,6 +22,9 @@ O projeto foi criado com foco em simular regras de negócio reais, aplicando con
 * 🔄 Interface dinâmica sem recarregamento de página (SPA)
 * 🧩 Componentes reutilizáveis
 * 📱 Layout responsivo (Mobile First)
+* Visualização de Saldo
+* Histórico
+* Persistência de dados
 
 ---
 
@@ -37,7 +40,7 @@ O projeto foi criado com foco em simular regras de negócio reais, aplicando con
 
 ## 💡 Objetivo do projeto
 
-Simular o funcionamento de uma aplicação bancária real, focando na construção de interfaces funcionais e na manipulação de dados em tempo real, aproximando o desenvolvimento de cenários do mercado.
+Simular o funcionamento de uma aplicação bancária real, focando na construção de interfaces funcionais e na manipulação de dados em tempo real, aproximando o desenvolvimento de cenários do mercado. Praticar construção de interfaces reais, organização de código e experiência do usuário.
 
 ---
 
