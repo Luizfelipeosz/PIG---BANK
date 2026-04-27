@@ -2,7 +2,7 @@
 
 Aplicação web desenvolvida com React que simula um sistema bancário digital, permitindo o gerenciamento de saldo, entradas e saídas financeiras de forma dinâmica e intuitiva.
 
-O projeto foi criado com foco em simular regras de negócio reais, aplicando conceitos modernos de desenvolvimento front-end como componentização, gerenciamento de estado e construção de interfaces SPA (Single Page Application).
+O projeto foi criado com foco em simular regras de negócio reais, aplicando conceitos modernos de desenvolvimento front-end como componentização, gerenciamento de estado e construção de interfaces SPA.
 
 ---
 
