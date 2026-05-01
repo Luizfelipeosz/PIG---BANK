@@ -1,12 +1,18 @@
 # 🏦 PIG Bank
 
-Aplicação web desenvolvida com React que simula um sistema bancário digital, permitindo o gerenciamento de saldo, entradas e saídas financeiras de forma dinâmica e intuitiva.
-
-O projeto foi criado com foco em simular regras de negócio reais, aplicando conceitos modernos de desenvolvimento front-end como componentização, gerenciamento de estado e construção de interfaces SPA.
+Aplicação web desenvolvida com **React** que simula um sistema bancário digital. O foco do projeto é reproduzir cenários reais de mercado, trabalhando gerenciamento de estado, regras de negócio e construção de interfaces modernas.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Sobre o projeto
+
+O **PIG Bank** permite controlar entradas e saídas financeiras de forma simples e intuitiva, com atualização dinâmica de saldo e experiência fluida (SPA).
+
+Este projeto foi pensado não apenas como prática, mas como **demonstração de habilidades reais para o mercado front-end**.
+
+---
+
+## 🛠️ Tecnologias
 
 * React.js
 * JavaScript (ES6+)
@@ -15,38 +21,41 @@ O projeto foi criado com foco em simular regras de negócio reais, aplicando con
 
 ---
 
-## 🎯 Funcionalidades
+## ✨ Funcionalidades
 
-* 💰 Cadastro de entradas e saídas financeiras
-* 📊 Atualização dinâmica do saldo em tempo real
-* 🔄 Interface dinâmica sem recarregamento de página (SPA)
+* 💰 Registro de entradas e saídas financeiras
+* 📊 Atualização de saldo em tempo real
+* 📜 Histórico de transações
+* 🔄 SPA (sem reload de página)
 * 🧩 Componentes reutilizáveis
 * 📱 Layout responsivo (Mobile First)
-* Visualização de Saldo
-* Histórico
-* Persistência de dados
 
 ---
 
-## 🧠 Conceitos aplicados
+## 🧠 O que foi aplicado
 
-* Gerenciamento de estado no React
-* Componentização e reutilização de código
+* Gerenciamento de estado com React
+* Componentização e reutilização
 * Separação de responsabilidades
-* Estruturação de projetos front-end escaláveis
+* Estrutura escalável de projeto
 * Boas práticas de desenvolvimento
 
 ---
 
-## 💡 Objetivo do projeto
+## 🎯 Objetivo
 
-Simular o funcionamento de uma aplicação bancária real, focando na construção de interfaces funcionais e na manipulação de dados em tempo real, aproximando o desenvolvimento de cenários do mercado. Praticar construção de interfaces reais, organização de código e experiência do usuário.
+Simular uma aplicação bancária real, focando em:
+
+* Manipulação de dados em tempo real
+* Organização de código
+* Experiência do usuário
+* Estrutura próxima ao ambiente profissional
 
 ---
 
-## 🖥️ Demonstração
+## 🖥️ Demo
 
-👉 Em breve 
+🚧 Em breve
 
 ---
 
@@ -55,45 +64,45 @@ Simular o funcionamento de uma aplicação bancária real, focando na construç�
 <img width="492" height="681" alt="pig 1" src="https://github.com/user-attachments/assets/9955e939-33b0-4059-8ee9-eacd216cc513" />
 <img width="420" height="687" alt="pig 2" src="https://github.com/user-attachments/assets/ded9f38a-1f89-4fce-9885-2357deaa433d" />
 
-
 ---
 
-## 📂 Como executar o projeto
+## ⚙️ Como rodar o projeto
 
 ```bash
 # Clonar repositório
 git clone https://github.com/Luizfelipeosz/PIG---BANK
 
-# Acessar pasta
+# Entrar na pasta
 cd PIG---BANK
 
 # Instalar dependências
 npm install
 
-# Rodar projeto
+# Rodar aplicação
 npm start
 ```
 
 ---
 
-## 📈 Melhorias futuras
+## 📈 Próximas melhorias
 
-* Integração com API real
+* Integração com API
 * Autenticação de usuários
-* Persistência de dados (localStorage ou backend)
-* Dashboard com gráficos financeiros
+* Persistência de dados (localStorage / backend)
+* Dashboard com gráficos
 
 ---
 
 ## 👨‍💻 Autor
 
-Desenvolvido por Luiz Felipe Oliveira Souza
-🔗 https://github.com/Luizfelipeosz
-🔗 https://linkedin.com/in/luiz-felipe-o-souza-9a488b372
+Luiz Felipe Oliveira Souza
+🔗 [https://github.com/Luizfelipeosz](https://github.com/Luizfelipeosz)
+🔗 [https://linkedin.com/in/luiz-felipe-o-souza-9a488b372](https://linkedin.com/in/luiz-felipe-o-souza-9a488b372)
 
 ---
 
-## 📌 Status do projeto
+## 📌 Status
 
 🚧 Em desenvolvimento
+
 
