@@ -61,8 +61,6 @@ Simular uma aplicação bancária real, focando em:
 
 ## 📷 Preview
 
-<img width="492" height="681" alt="pig 1" src="https://github.com/user-attachments/assets/9955e939-33b0-4059-8ee9-eacd216cc513" />
-<img width="420" height="687" alt="pig 2" src="https://github.com/user-attachments/assets/ded9f38a-1f89-4fce-9885-2357deaa433d" />
 <img width="1586" height="992" alt="ChatGPT Image 1 de mai  de 2026, 18_58_27" src="https://github.com/user-attachments/assets/03596cc0-50ee-4390-a434-2491b1a9f829" />
 
 ---
