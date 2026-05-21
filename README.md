@@ -25,6 +25,7 @@ Funcionalidade	Descrição
 ⚡ SPA	Navegação fluida sem reload
 🧩 Componentização	Estrutura reutilizável e escalável
 📱 Responsividade	Experiência Mobile First
+   Tela de Login/Cadastro funcional
 </div>
 🛠️ Stack Utilizada
 <div align="center">
